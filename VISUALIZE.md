@@ -1,3 +1,1 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,mysql,html,css,cs,py,kotlin,java)](https://skillicons.dev)

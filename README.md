@@ -6,5 +6,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,php,html,css,cs,py)](https://skillicons.dev)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME&theme=highcontrast)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadAkmalFauzan&theme=highcontrast)
 

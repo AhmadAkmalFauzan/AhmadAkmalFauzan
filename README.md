@@ -6,5 +6,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,php,html,css,cs,py)](https://skillicons.dev)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AhmadAkmalFauzan&theme=highcontrast)
+![Snake Animation](https://github.com/AhmadAkmalFauzan/AhmadAkmalFauzan/blob/output/github-contribution-grid-snake.svg)
 

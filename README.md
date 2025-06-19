@@ -1,5 +1,5 @@
-
 👨‍💻 whoami
+
 Halo, Saya Ahmad Akmal Fauzan! 👋
 
 ## 💻 Tech Stack
@@ -7,7 +7,9 @@ Halo, Saya Ahmad Akmal Fauzan! 👋
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAkmalFauzan&show_icons=true&theme=dracula)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAkmalFauzan&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME&theme=highcontrast)
 
 

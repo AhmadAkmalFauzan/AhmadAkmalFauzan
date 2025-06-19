@@ -2,9 +2,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAkmalFauzan&layout=compact&theme=radical)
 
-![Featured Repos](https://github-readme-stats.vercel.app/api/pin/?username=AhmadAkmalFauzan&repo=REPO_NAME&theme=dark)
-
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,php,html,css,cs,py)](https://skillicons.dev)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmadAkmalFauzan&color=blue)
+
 

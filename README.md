@@ -2,5 +2,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAkmalFauzan&layout=compact&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAkmalFauzan&show_icons=true&theme=dracula)
+
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,php,html,css,cs,py)](https://skillicons.dev)
 

@@ -1,3 +1,8 @@
+
+👨‍💻 whoami
+Nama: [Ahmad Akmal Fauzan]
+Role: [Developer/Designer/etc]
+Tech Stack: [JavaScript, Python, etc]
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadAkmalFauzan&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAkmalFauzan&layout=compact&theme=radical)

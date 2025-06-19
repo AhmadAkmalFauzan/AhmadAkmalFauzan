@@ -7,5 +7,5 @@
 ![Featured Repos](https://github-readme-stats.vercel.app/api/pin/?username=AhmadAkmalFauzan&repo=REPO_NAME&theme=dark)
 
 [![My Skills](https://skillicons.dev/icons?i=kali,linux,php,html,css,cs,py)](https://skillicons.dev)
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_Fauzanahmadakmal&cover_image=true&theme=novatorem)](https://open.spotify.com/user/SPOTIFY_USER_ID)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_Fauzanahmadakmal&cover_image=true&theme=novatorem)](https://open.spotify.com/user/Fauzanahmadakmal)
 
